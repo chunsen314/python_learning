@@ -4,6 +4,6 @@
 
 ### 目前包含的学习内容：
 
-> - **sklearn**
+> - **sklearn & machine learning**
 > - **matplotlib**
 
